@@ -1,5 +1,7 @@
-# Code-BD-RIS-SPAWC2024
-This is a code package related to the paper "MIMO capacity maximization with beyond-diagonal RIS"  I. Santamaria, M. Soleymani, E. Jorswieck, J. Gutierrez, submitted to SPAWC 2024.
+# Code-MaxCap-BD-RIS-MIMOS
+This repository contains code related to the following two papers:
+SPAWC24 paper: "MIMO capacity maximization with beyond-diagonal RIS,"  I. Santamaria, M. Soleymani, E. Jorswieck, and J. Gutierrez.
+ICASSP26 paper: "Riemannian optimization on the manifold of unitary and symmetric matrices with application to BD-RIS-assisted systems," I. Santamaria, M. Soleymani, E. Jorswieck, J. Gutierrez, and C. Beltran.
 
 # Content of Code Package
 The code is implemented in Matlab, you might need cvx (with all subfolders) to run the code.
