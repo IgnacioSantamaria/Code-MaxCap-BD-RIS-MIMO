@@ -26,7 +26,9 @@ if norm(A'*A-eye(n))<1e-10
 else
     [F_SVD,Sigma,G_SVD] = svd(A);
     dummy = F_SVD'*conj(G_SVD);
-    phases = angle(diag(dummy))/2;    % Eigenvectors post-correction
-    Q = F_SVD*diag(exp(1i*phases));
+    %phases = angle(diag(dummy))/2;    % Eigenvectors post-correction (old version)
+    %Q = F_SVD*diag(exp(1i*phases));   % (old version)
+    Q = F_SVD*sqrtm(dummy);   % THIS IS GENERAL (modified 19/01/26)
     % A = Q*Sigma*Q.';
 end
+
