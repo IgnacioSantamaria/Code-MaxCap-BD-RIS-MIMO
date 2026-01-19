@@ -1,4 +1,4 @@
-# Code-MaxCap-BD-RIS-MIMOS
+# Code-MaxCap-BD-RIS-MIMO
 This repository contains code related to the following two papers:
 # SPAWC 24 paper
 "MIMO capacity maximization with beyond-diagonal RIS,"  I. Santamaria, M. Soleymani, E. Jorswieck, and J. Gutierrez.
