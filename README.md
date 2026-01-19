@@ -1,14 +1,12 @@
 # Code-MaxCap-BD-RIS-MIMOS
 This repository contains code related to the following two papers:
-SPAWC24 paper: "MIMO capacity maximization with beyond-diagonal RIS,"  I. Santamaria, M. Soleymani, E. Jorswieck, and J. Gutierrez.
-ICASSP26 paper: "Riemannian optimization on the manifold of unitary and symmetric matrices with application to BD-RIS-assisted systems," I. Santamaria, M. Soleymani, E. Jorswieck, J. Gutierrez, and C. Beltran.
+# SPAWC 24 paper
+"MIMO capacity maximization with beyond-diagonal RIS,"  I. Santamaria, M. Soleymani, E. Jorswieck, and J. Gutierrez.
+# ICASSP 26 paper
+"Riemannian optimization on the manifold of unitary and symmetric matrices with application to BD-RIS-assisted systems," I. Santamaria, M. Soleymani, E. Jorswieck, J. Gutierrez, and C. Beltran.
 
 # Content of Code Package
-The code is implemented in Matlab, you might need cvx (with all subfolders) to run the code.
-The files Script_SPAWC24vsBDRISposition, Script_SPAWC24vsM, ScriptSPAWC243vsPower and ScriptSPAWC24_Convergence are scripts that reproduce some of the plots in the paper. The programs compare the Max-capacity BDRIS algorithm proposed in the paper with a single-connected RIS, optimized using the algorithm in S. Zhang, R. Zhang, "Capacity characterization for IRS aided MIMO Communications", JSAC, vol. 38, no. 8, pp. 1823-1838, 2020.
-
-The main function to optimize the BD-RIS is MaxCap_BDRIS_passive.
-The main function for optimizing the diagonal RIS is MaxCap_RIS_passive.
+The code for each paper is in the corresponding folder
 
 # License and Referencing
 This code package is licensed under the GNUv3 license. If you in any way use this code for research that results in publications, please cite our original article listed above.
