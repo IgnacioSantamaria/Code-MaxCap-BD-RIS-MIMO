@@ -7,6 +7,7 @@ This repository contains code related to the following two papers:
 
 # Content of Code Package
 The code for each paper is in the corresponding folder. Both papers address the same problem: optimizing the (unitary and symmetric) BD-RIS to maximize capacity in a MIMO link. The Manifold Optimization (MO) algorithm presented in the ICASSP'26 paper is significantly faster and is the one we recommend using.
+For comments or questions, please send an email to i.santamaria@unican.es
 
 # License and Referencing
 This code package is licensed under the GNUv3 license. If you in any way use this code for research that results in publications, please cite our original article listed above.
