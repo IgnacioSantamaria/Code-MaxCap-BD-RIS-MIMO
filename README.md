@@ -4,7 +4,7 @@ This repository contains code related to the following two papers:
 "MIMO capacity maximization with beyond-diagonal RIS,"  I. Santamaria, M. Soleymani, E. Jorswieck, and J. Gutierrez.
 # ICASSP 26 paper
 "Riemannian optimization on the manifold of unitary and symmetric matrices with application to BD-RIS-assisted systems," I. Santamaria, M. Soleymani, E. Jorswieck, J. Gutierrez, and C. Beltran.
-# TSP paper (submitted)
+# TSP manuscript (submitted)
 "The manifold of unitary and symmetric matrices: Characterization, Riemannian optimization, and application to BD-RIS design," I. Santamaria, C. Beltran, E. Jorswieck, M. Soleymani and J. Gutierrez.
 
 # Content of Code Package
