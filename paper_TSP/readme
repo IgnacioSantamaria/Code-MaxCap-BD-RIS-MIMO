@@ -1,1 +1,8 @@
+# Code-MaxCap-BD-RIS-MIMO/paper_TSP
+This folder contains code related to the paper "The manifold of unitary and symmetric matrices: Characterization,
+Riemannian optimization and application to BD-RIS design,"  I. Santamaria, C. Beltran, E. Jorswieck, M. Soleymani, and J. Gutierrez.
+
+# Content of Code Package
+The code is implemented in Matlab.
+The files Script_FigXX reproduce Fig. XX in the manuscript.
 
